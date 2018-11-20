@@ -58,5 +58,6 @@ def runner
   while current_total <= 21 do
     hit?(current_total)
   print current_total
+  end
 end
     

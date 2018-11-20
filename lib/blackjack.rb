@@ -57,6 +57,6 @@ def runner
   current_total=initial_round
   while current_total <= 21 do
     hit?(current_total)
-  
+  print current_total
 end
     
